@@ -20,6 +20,7 @@ run ip_adress_ tracker.py  using python
     python3 ip_adress_ tracker.py
     
 If you want to look your ip information you can run command in your terminal 
+    
     bash
     cat ip_info.txt
 
