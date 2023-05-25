@@ -8,6 +8,7 @@ $step1:
     sudo apt-get install pip  #If   you dont have pip installed in your Pc
     pip install ip2geotools
 Or Method 2 you can run shell script
+    
     bash
     cd ip_adress_locater
     ./iptools.sh
